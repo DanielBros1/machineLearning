@@ -32,3 +32,9 @@
 ✅ Implement the minimum number of objects pruning method.
 
 ✅ Plot OC1 tree, but instead of elements id, print the feature id it was split by.
+
+##### Task 4 - Support Vector Machines
+
+✅  Implement the polynomial kernel.
+
+✅  Implement the multiclass C-SVM.
