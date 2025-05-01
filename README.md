@@ -1,8 +1,7 @@
 ## Machine Learning 2025
 
+
 ##### Task 1 - Linear Regression
-
-
 
 ✅ Use the cross-validation method to test the linear regression with different   values, at least three.
 
@@ -10,8 +9,8 @@
 
 ✅ Extend the Fisher’s classifier to work with two features. Use the class as the  .
 
-##### Task 2 - Clustering
 
+##### Task 2 - Clustering
 
 ✅ Modify the HCM code to work for three groups. This exercise can be divded into four tasks:
 
@@ -23,6 +22,7 @@
 
 ✅ Draw the borders between clusters in the output image (for 5.0 grade)
 
+
 ##### Task 3 - Decision Trees
 
 ✅ Rewrite the CART method to the Gini index.
@@ -33,8 +33,29 @@
 
 ✅ Plot OC1 tree, but instead of elements id, print the feature id it was split by.
 
+
 ##### Task 4 - Support Vector Machines
 
-✅  Implement the polynomial kernel.
+✅ Implement the polynomial kernel.
 
-✅  Implement the multiclass C-SVM.
+✅ Implement the multiclass C-SVM
+
+
+##### Task 5 - Ensemble methods
+
+✅ Find the best three classifier in the stacking method using the classifiers from scikit-learn package.
+
+✅ Build arcing arc-x4 method..
+
+
+##### Task 6 - NLP
+
+✅ Build your own tokenizer, where you need to implement two functions to implement a tokenizer based on regular expression.
+
+✅ Get tags from Trump speech.
+
+✅ Get the nouns in the last 10 sentences from Trump's speech and find the nouns divided by sentencens. Use SpaCy.
+
+✅ Build your own Bag Of Words implementation using tokenizer created before.
+
+✅ Build a 5-gram model and clean up the results.
